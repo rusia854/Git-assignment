@@ -1,2 +1,6 @@
 "Hello World!"
+<<<<<<< HEAD
 This is a bug fix
+=======
+"This is new feature."
+>>>>>>> feature/new-feature
